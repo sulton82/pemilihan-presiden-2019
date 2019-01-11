@@ -1,0 +1,38 @@
+body{
+	font-family: "arial";
+	text-align: center;
+	font-style: italic;
+}
+h1{
+			
+			font-style: italic;
+			font-size: 44px;
+			text-align: center;
+		}
+
+a{
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+}		
+
+.fb{
+	background: #4D8ED0;
+}
+.fb:hover{
+	background: violet;
+}
+
+.tw{
+	background: #43CAD0;
+}
+.tw:hover{
+	background: violet;
+}
+.ig{
+	background: #ff3300; 
+}
+.ig:hover{
+	background: violet;
+}

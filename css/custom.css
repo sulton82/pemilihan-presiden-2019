@@ -1,0 +1,180 @@
+
+* {
+	font-weight: 200;
+	letter-spacing: 1px;
+}
+
+body {
+	padding-top: 80px;
+	padding-left: 100px;
+	padding-right: 100px;
+	color: #000000;
+	background: #CCFFFF;
+
+
+}
+
+h3 {
+	margin: 0;
+}
+
+.color-white {
+	color: #ff0000 ;
+}
+
+.img-center {
+	margin: 0 auto;
+}
+.navbar {
+	min-height: 60px;
+	border-radius: 0;
+	margin-bottom: 0;
+	border-bottom: solid 5px #ff0000;
+	box-shadow: 0 5px 10px 0 #ffffff;
+}
+
+.navbar-brand {
+	padding: 0 15px;
+	height: 5px;
+	line-height: 70px;
+}
+
+.navbar-brand>img {
+	margin-top: 20px;
+	max-width: 80px;
+}
+
+.navbar-toggle {
+	margin-top: 23px;
+	padding: 10px 10px !important;
+}
+
+@media (min-width: 700px) {
+	.navbar-nav > li > a{
+		padding-top: 26.5px;
+		padding-bottom: 26.5px;
+		line-height: 27px;
+		font-weight: 400;
+		letter-spacing: 2px;
+	}
+}
+
+
+}
+
+#about {
+	background: #c0c0c0;
+	color: #ff0000;
+}
+
+#about img, #portfolio img {
+	width: 100%;
+}
+
+
+
+#about, #portfolio, #team, #contact {
+	padding: 50px 0;
+} 
+
+
+}
+
+#team {
+	background: #c0c0c0;
+
+}
+
+#team img {
+	width: 180px;
+	border: solid 5px #fff;
+}
+
+.team-name {
+	padding: 10px;
+	color: #c0c0c0;
+}
+
+#portfolio {
+	background: #CCFFFF;
+
+}
+
+
+.portfolio img {
+
+}
+.portfolio-title{
+	padding: 15px;
+	background: #ff0000;
+	height: 100%
+}
+
+.portfolio-title h3 {
+	font-size: 1em;
+	color: #ffffff;
+}
+
+.fortfolio h1{
+	font-size: 1em;
+
+}
+
+#contact {
+	color: #e3e3e3;
+	background: #404040;
+}
+
+footer {
+	padding: 15px 0;
+	background: #ff0000;
+	color: #e3e3e3;
+	font-weight: 500;
+	text-align: center;
+
+}
+
+@media only screen and (max-width: 640px) {
+	.box-portfolio {
+		margin-bottom: 20px;
+	}
+
+	#about img {
+		margin-bottom: 20px;
+
+	}
+
+	#about, #portfolio, #team, #contact {
+		padding: 30px 0;
+	}	
+
+	#contact {
+		text-align: center;
+	}
+}
+
+
+
+#aboutme {
+	background: #ff0000;
+
+}
+
+.aboutme-title{
+	padding: 15px;
+	background: #ffffff;
+	height: 100%
+}
+
+.aboutme-title h1 {
+	font-size: 1em;
+	color: #ffffff;
+}
+
+.aboutme h1{
+	font-size: 1em;
+}
+
+
+
+
